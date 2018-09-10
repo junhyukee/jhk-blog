@@ -1,7 +1,9 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
-import logo from '../img/logo.svg'
+import think from '../img/think.svg'
+import linkedin from '../img/linkedin.svg'
+import twitter from '../img/twitter.svg'
 
 const Navbar = () => (
   <nav className="navbar is-transparent">
@@ -9,7 +11,7 @@ const Navbar = () => (
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
           <figure className="image">
-            <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+            <img src={think} alt="think" style={{ transform: 'scale(1.5)' }} />
           </figure>
         </Link>
       </div>
@@ -24,7 +26,27 @@ const Navbar = () => (
       <div className="navbar-end">
         <a
           className="navbar-item"
-          href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate"
+          href="https://twitter.com/jhkdev"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <span className="icon">
+            <img src={twitter} alt="twitter" />
+          </span>
+        </a>
+        <a
+          className="navbar-item"
+          href="https://www.linkedin.com/in/junhyukkim"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <span className="icon">
+            <img src={linkedin} alt="LinkedIn" />
+          </span>
+        </a>
+        <a
+          className="navbar-item"
+          href="https://github.com/junhyukee"
           target="_blank"
           rel="noopener noreferrer"
         >
