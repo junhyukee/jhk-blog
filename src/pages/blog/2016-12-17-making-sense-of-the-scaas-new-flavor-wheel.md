@@ -7,7 +7,7 @@ tags:
   - Journey
   - Software
 ---
-![flavor wheel](/img/software.jpeg)
+![computer](/img/software.jpeg)
 
 This is my first post, woohoo! I’m not expecting anyone to read my posts, but in case there is a friendly reader occasionally, I thought I would introduce myself briefly. My name is Jun, and I wanted a medium to contain my thoughts and progress while I venture through life and learn more about myself. The main journey that I would like to document is my path to achieving my dream — becoming a software engineer. Maybe I’ll have a few occasional posts on my other interests (clothing, music, and cryptocurrency to name a few), but for now, I wish to share my story with my future self and with you guys as well. My writing will be informal and conversational, as that is how I most comfortably interact, so please ignore any grammatical errors or awkward jargon that I may have!
 
