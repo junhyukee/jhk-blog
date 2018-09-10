@@ -1,32 +1,20 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: Why I Chose to Become a Software Engineer
+date: 2018-06-09T19:00:00.000Z
+description: Jun's journey to become a software engineer.
 tags:
-  - flavor
-  - tasting
+  - Journey
+  - Software
 ---
+![flavor wheel](/img/software.jpeg)
 
-![flavor wheel](/img/flavor_wheel.jpg)
+This is my first post, woohoo! I’m not expecting anyone to read my posts, but in case there is a friendly reader occasionally, I thought I would introduce myself briefly. My name is Jun, and I wanted a medium to contain my thoughts and progress while I venture through life and learn more about myself. The main journey that I would like to document is my path to achieving my dream — becoming a software engineer. Maybe I’ll have a few occasional posts on my other interests (clothing, music, and cryptocurrency to name a few), but for now, I wish to share my story with my future self and with you guys as well. My writing will be informal and conversational, as that is how I most comfortably interact, so please ignore any grammatical errors or awkward jargon that I may have!
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+So, why a software engineer? Well, the short-term goal is to become a software developer, although both titles are used interchangeably. I’ll just keep it simple and say software engineer, although I know that there are a lot of arguments about engineering vs development, but to me the title is not too important. I recently graduated with a Bachelor’s Degree in Biomedical Engineering with an emphasis in Biochemical Engineering from the University of Southern California. I learned about biotechnology and took all those pre-med classes that everyone hates (Molecular Biology, Organic Chemistry, Biochemistry, etc.). Why did I choose to go through that hardship, only to discover that I wanted to do something related to web development? Why did I “suddenly develop” a passion for software engineering?
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Well, many people around me may think that my passion “suddenly developed”, but for me, it started off at a younger age, around freshman year in high school. My high school didn’t offer any computer science related classes, or any programming classes, but I was interested and decided to follow a C++ tutorial on YouTube. I was quickly discouraged because the tutorial I was following was probably not suited for a beginner programmer, but rather for an intermediate or even an advanced programmer. I struggled with understanding concepts like memory management, and eventually gave up and was afraid to work on anything programming related. When the time came to decide what I wanted to study in college, I decided to choose something that I felt was predetermined for me — a career related to biological sciences. My dad is a professor doing cancer research, so from one reason to another, everyone around me expected to follow a similar path. Foolishly, I thought that as well. I mean, biology seemed intuitive to me (at least in the shallow depths), and I was good at it, so why not? I chose to study Biology at USC under the pre-med track, where I aimed to become a doctor after medical school.
 
-## What the updates mean to you
+During my first semester at USC, I realized how much technology was growing and the influences technology had around the world. I wanted to do something more technological, and decided that medical school wasn’t really what I wanted to do after graduating college. I wanted to find work after graduating, and become involved and contribute to technological advances within the medical field. I changed my major to Biomedical Engineering, because it was a “safe” option, where I combine my biological knowledge with my love for technology. I had so many colleagues and friends studying computer science, so I was afraid I would be behind if I changed to CS. Now me would have had no problem changing to CS, but past me was scared to fall behind and not do well. Anyways, throughout my BME degree, I learned Matlab, Labview, and a little bit of R and C++ and realized that I wasn’t so bad at programming. I was still discouraged from my high school trauma of C++, but I realized that I gave up too early and probably should’ve looked at other resources if I really wanted to learn. I even passed the certification test to become an Associate Labview Developer, even though a big part of it was due to my professor teaching us Labview excellently! I wanted to learn more and more about development and programming, and thus started my new academic life of self-studying programming.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
-
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+I started by learning Python, going through Python Crash Course and Automate the Boring Stuff with Python. I enjoyed the little projects that the lessons had and creating the simplest programs. I was having fun! I wanted to create something more comprehensive and involved, so I started to learn Django by following a Udemy course. I enjoyed learning Django, but after doing more research, I found Javascript to be more widely used by companies, so I decided to learn Javascript! Since then, I have been learning Javascript through freeCodeCamp, Javascript30, Udemy courses, reading documentation on MDN, watching YouTube videos, basically anything that’s available on the web! I have been having so much fun learning how to develop web applications, that I have developed a strong passion in becoming a software engineer. I know I may be at a disadvantage because I lack a computer science degree, but if anything, my engineering degree has really taught me how to learn. I know with time and effort, I can prove myself to be a skilled developer worth hiring. I’m still early in my journey, but please join me as I share my experiences and path to becoming a software engineer!
